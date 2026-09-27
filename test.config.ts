@@ -4,7 +4,6 @@ export class TestConfig{
     //valid data
     email= "revathyvignesh24@gmail.com"
     password="Samgirl@2411"
-     password="Samgirl@2411" --ppari
 
     //product Details
     productName="MacBook"

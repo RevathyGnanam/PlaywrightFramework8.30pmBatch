@@ -10,7 +10,6 @@ export class LogoutPage {
         // Using CSS selector with :has-text() pseudo-class for text matching
         this.btnContinue = page.locator('.btn.btn-primary');
     }
-
     /**
      * Clicks the Continue button after logout
      * @returns Promise<HomePage> - Returns instance of HomePage

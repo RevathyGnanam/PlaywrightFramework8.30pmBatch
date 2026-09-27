@@ -44,6 +44,7 @@ await homePage.clickRegister()
 
        const confirmMsg = await regpage.getConfirmationMsg();
        console.log(confirmMsg)
+      console.log("revathy Message")
 
        expect(confirmMsg).toContain('Your Account Has Been Created!')
 

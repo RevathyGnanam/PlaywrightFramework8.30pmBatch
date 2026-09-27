@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7779","Login test with csv Data: Invalid login @datadriven","chromium","2026-09-22","passed","2026-09-22","","LoginUsingDataDriven.spec.ts","",""
+"","8809","Login using config file @master @sanity @regression","chromium","2026-09-22","passed","2026-09-22","","LoginUsingConfigFile.spec.ts","",""
+"","11298","User registration","chromium","2026-09-22","passed","2026-09-22","","AccountRegistration.spec.ts","",""
+"","8531","Login test with JSON Data: Valid login @datadriven","chromium","2026-09-22","passed","2026-09-22","","LoginUsingDataDriven.spec.ts","",""
+"","7757","Login test with JSON Data: Invalid login @datadriven","chromium","2026-09-22","failed","2026-09-22","","LoginUsingDataDriven.spec.ts","",""
+"","8731","Login test with csv Data: Valid login @datadriven","chromium","2026-09-22","passed","2026-09-22","","LoginUsingDataDriven.spec.ts","",""

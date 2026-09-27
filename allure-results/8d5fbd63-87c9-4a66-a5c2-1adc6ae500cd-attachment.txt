@@ -1,0 +1,11 @@
+{
+  bookingid: 3700,
+  booking: {
+    firstname: 'Brayan',
+    lastname: 'Monahan',
+    totalprice: 986,
+    depositpaid: false,
+    bookingdates: { checkin: '2026-09-25', checkout: '2026-09-30' },
+    additionalneeds: 'super bowls'
+  }
+}

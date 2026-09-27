@@ -46,7 +46,4 @@ await homePage.clickRegister()
        console.log(confirmMsg)
 
        expect(confirmMsg).toContain('Your Account Has Been Created!')
-
-
-
 })

@@ -23,7 +23,6 @@ export class CheckoutPage {
     private readonly lblTotalPrice: Locator;
     private readonly btnConfOrder: Locator;
     private readonly lblOrderConMsg: Locator;
-
     constructor(page: Page) {
         this.page = page;
         

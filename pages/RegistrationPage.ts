@@ -29,8 +29,6 @@ export class RegistrationPage {
         this.btnContinue = page.locator('input[value="Continue"]');
         this.msgConfirmation = page.locator('h1:has-text("Your Account Has Been Created!")');
     }
-
-
     /**
      * Sets the first name in the registration form
      * @param fname - First name to enter
